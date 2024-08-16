@@ -1,0 +1,141 @@
+{
+    "basics": {
+        "name": "TU NOMBRE",
+        "label": "BREVE RESUMEN DE TU EXPERIENCIA",
+        "image": "/me.webp",
+        "email": "TU CORREO ELECTRÓNICO DE CONTACTO DE TRABAJO",
+        "phone": "TU NÚMERO DE TELÉFONO PERSONAL O PARA TRABAJOS, OPCIONAL AGREGAR CÓDIGO DE TU PAÍS (+52 000 0000 000)",
+        "url": "",
+        "summary": "RESUMEN DE TUS HABILIDADES, EXPERIENCIA, LOGROS Y ACTIVIDADES RELEVANTES",
+        "location": {
+            "address": "OPCIONAL TU DIRECCIÓN",
+            "postalCode": "CÓDIGO POSTAL",
+            "city": "TU CIUDAD",
+            "countryCode": "EL CÓDIGO DE TU PAÍS (MX, ES, FR)",
+            "region": "TU ESTADO"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "TU NOMBRE DE USUARIO",
+                "url": "ENLACE A TU PERFIL"
+            },
+            {
+                "network": "GitHub",
+                "username": "TU NOMBRE DE USUARIO",
+                "url": "ENLACE A TU PERFIL"
+            }
+        ]
+    },
+
+    "work": [
+        {
+            "name": "NOMBRE DE LA EMPRESA O LUGAR DE TRABAJO",
+            "position": "PUESTO",
+            "url": "ENLACE EN CASO DE TENER",
+            "startDate": "FECHA DE INICIO 2000",
+            "endDate": "FECHA DE CULMINACIÓN O ESCRIBIR (null) EN CASO DE SEGUIR EN EL MISMO LUGAR DE TRABAJO 2000",
+            "summary": "RESUMEN DE TUS ACTIVIDADES",
+            "highlights": [
+                "EN CASO DE YA NO TRABAJAR EN EL LUGAR, PUEDE PONER LA DESCRIPCIÓN QUE HIZO LA EMPRESA SOBRE TI"
+            ]
+        }
+    ],
+
+    "volunteer": [
+        {
+            "organization": "ORGANIZACIÓN",
+            "position": "POSICIÓN O TAREAS REALIZADAS",
+            "url": "https://organization.com/",
+            "startDate": "FECHA DE INICIO",
+            "endDate": "FECHA DE CULMINACIÓN O ESCRIBIR (null) EN CASO DE SEGUIR EN EL MISMO LUGAR DE TRABAJO",
+            "summary": "RESUMEN DE TUS ACTIVIDADES",
+            "highlights": ["LEYENDA O FRASE DEL VOLUNTARIADO"]
+        }
+    ],
+
+    "education": [
+        {
+            "institution": "NOMBRE DE LA INSTITUCIÓN",
+            "url": "PAGINA WEB DE LA ESCUELA",
+            "area": "FACULTAD",
+            "studyType": "TIPO DE ESTUDIOS (Licenciatura, Doctorado, Ingeniería)",
+            "startDate": "AÑO DE INICIO 2000",
+            "endDate": "AÑO DE CULMINACIÓN 2000",
+            "score": "CALIFICACIÓN",
+            "courses": ["OPCIONAL CURSOS"]
+        }
+    ],
+
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+
+    "certificates": [
+        {
+            "name": "CERTIFICADOS",
+            "date": "AÑO DEL CERTIFICADO",
+            "issuer": "COMPAÑÍA",
+            "url": "PAGINA WEB DE LA CERTIFICACIÓN"
+        }
+    ],
+
+    "publications": [
+        {
+            "name": "PUBLICACIONES DE INVESTIGACIÓN",
+            "publisher": "COMPAÑÍA O UNIDAD ACADÉMICA",
+            "releaseDate": "AÑO DE LA PUBLICACIÓN",
+            "url": "PAGINA WEB DE LA ESCUELA QUE EXPEDIO LA PUBLICACIÓN",
+            "summary": "DESCRIPCIÓN"
+        }
+    ],
+
+    "skills": [
+        {
+            "name": "HABILIDADES",
+            "level": "NIVEL",
+            "keywords": ["BREVE DESCRIPCIÓN DE LA HABILIDAD"]
+        }
+    ],
+
+    "languages": [
+        {
+            "language": "LENGUA QUE DOMINAS",
+            "fluency": "NIVEL DE DOMINIO DEL LENGUAJE"
+        }
+    ],
+
+    "interests": [
+        {
+            "name": "HOBBIES",
+            "keywords": ["PALABRAS CLAVE SEPARADAS POR COMA Y COMILLAS DOBLES"]
+        }
+    ],
+
+    "references": [
+        {
+            "name": "NOMBRE DE TU REFERENCIA",
+            "reference": "INFORMACIÓN COMO NÚMERO DE TELÉFONO, CORREO, ETC..."
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "NOMBRE DEL PROYECTO",
+            "isActive": "AGREGA true O false SIN COMILLAS PARA MARCAR COMO TERMINADO O NO",
+            "description": "BREVE DESCRIPCIÓN",
+            "highlights": [
+                "HERRAMIENTAS",
+                "UTILIZADAS",
+                "PARA",
+                "REALIZAR ESE PROYECTO"
+            ],
+            "url": ""
+        }
+    ]
+}
